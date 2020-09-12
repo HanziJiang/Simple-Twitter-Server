@@ -6,4 +6,6 @@ Simple version of Twitter server with the ability to
 * send messages
 * quit
 
-Uses signal handlers and socket-related system calls
+Uses signal handlers and socket-related system calls.
+
+CSC209 Assignment 4
